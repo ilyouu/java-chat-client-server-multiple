@@ -2,8 +2,8 @@
 
 ### Install:
 ```bash
-run ServerUI  # And start server
-run ClientUI  # And input port, run multi client
+run: ServerUI  # And start server
+run: ClientUI  # And input port, run multi client
 ```
 
 ## Dev: Phan Văn Bằng
